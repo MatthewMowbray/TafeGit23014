@@ -22,7 +22,7 @@ namespace Calculator
 			Window.Current.CoreWindow.CharacterReceived += keyPress;
 		}
 
-		// add comment here
+		// add comment hereadsad
 		private void pageLoaded(object sender, RoutedEventArgs e)
 		{
 			// window minimum size
